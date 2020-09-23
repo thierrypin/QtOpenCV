@@ -1,0 +1,4 @@
+/home/thierry/clion-2020.1.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/thierry/workspace/QtOpenCV
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/thierry/workspace/QtOpenCV/cmake-build-debug
