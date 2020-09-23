@@ -1,3 +1,0 @@
-/home/thierry/workspace/QtOpenCV/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/thierry/workspace/QtOpenCV/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/thierry/workspace/QtOpenCV/cmake-build-debug/CMakeFiles/QtOpenCV.dir
